@@ -1,38 +1,55 @@
 {
-    "people": [
-      {
-        "name": "Andy",
-        "classes": [
-          {
-            "name": "Math",
-            "time": "9:00am"
-          },
-          {
-            "name": "English",
-            "time": "10:30am"
-          },
-          {
-            "name": "Science",
-            "time": "1:00pm"
-          }
-        ]
-      },
-      {
-        "name": "David",
-        "classes": [
-          {
-            "name": "History",
-            "time": "9:30am"
-          },
-          {
-            "name": "Art",
-            "time": "11:00am"
-          },
-          {
-            "name": "Spanish",
-            "time": "2:00pm"
-          }
-        ]
-      }
-    ]
-  }
+  "people": [
+    {
+      "name": "Andy",
+      "classes": [
+        {
+          "name": "Math",
+          "time": "9:00am"
+        },
+        {
+          "name": "English",
+          "time": "10:30am"
+        },
+        {
+          "name": "Science",
+          "time": "1:00pm"
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "classes": [
+        {
+          "name": "History",
+          "time": "9:30am"
+        },
+        {
+          "name": "Art",
+          "time": "11:00am"
+        },
+        {
+          "name": "Spanish",
+          "time": "2:00pm"
+        }
+      ]
+    },
+    {
+      "name": "Katy",
+      "classes": [
+        {
+          "name": "Networking",
+          "time": "10:30am"
+        },
+        {
+          "name": "Web Development",
+          "time": "11:30am"
+        },
+        {
+          "name": "Science Principles",
+          "time": "3:00pm"
+        }
+      ]
+    }
+  ]
+}
