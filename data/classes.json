@@ -1,0 +1,38 @@
+{
+    "people": [
+      {
+        "name": "Andy",
+        "classes": [
+          {
+            "name": "Math",
+            "time": "9:00am"
+          },
+          {
+            "name": "English",
+            "time": "10:30am"
+          },
+          {
+            "name": "Science",
+            "time": "1:00pm"
+          }
+        ]
+      },
+      {
+        "name": "David",
+        "classes": [
+          {
+            "name": "History",
+            "time": "9:30am"
+          },
+          {
+            "name": "Art",
+            "time": "11:00am"
+          },
+          {
+            "name": "Spanish",
+            "time": "2:00pm"
+          }
+        ]
+      }
+    ]
+  }
